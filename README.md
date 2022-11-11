@@ -5,6 +5,8 @@
 
 Author: Akashdeep Samra
 
+GH Repo: https://github.com/aksamra56/cpnt201-ach2.git
+
 Link to Youtube tutorial:
 
 [https://www.youtube.com/watch?v=cuHDQhDhvPE]
